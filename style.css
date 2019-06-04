@@ -15,4 +15,7 @@ header {
 .skills ul{
   list-style: none;
 }
+.skills ul li{
+  background-color: #a0afc9;
+}
 
