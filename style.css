@@ -12,7 +12,7 @@ header {
 .right * {
   text-align: right;
 }
-.skills ul li {
-  text-decoration: none;
+.skills ul{
+  list-style: none;
 }
 
