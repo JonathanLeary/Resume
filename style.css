@@ -9,4 +9,7 @@ header {
 .left {
   float: left;
 }
+.right * {
+  text-align: right;
+}
 
